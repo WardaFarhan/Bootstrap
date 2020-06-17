@@ -6,17 +6,19 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
   },
   "repository": {
     "type": "git",
     "url": "(https://github.com/WardaFarhan/Bootstrap.git)"
   },
-  "author": "WardaFarhan",
+  "author": "",
   "license": "ISC",
   "homepage": "https://github.com/WardaFarhan/Bootstrap/blob/master/README.md",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.3.0",
+    "node-sass": "^4.7.2"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
