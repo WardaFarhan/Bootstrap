@@ -13,6 +13,8 @@
                     $("#carouselButton").children("span").addClass('fa-pause');                    
                 }
             });
+
+            
       //  $("#mycarousel").carousel( { interval: 2000 } );
         //$("#carousel-pause").click(function(){
           //$("#mycarousel").carousel('pause');
