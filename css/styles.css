@@ -78,7 +78,8 @@ h4{
 .modal-header{
 	background-color: #512DA8;
 	color: floralwhite;
-	.close{
+    .close
+    {
 		color: floralwhite;
 	}
 }
